@@ -1,7 +1,6 @@
 # Análise Estatística de Dados 
 
-Código desenvolvido para tratamento, limpeza, processamento, preparo, análise estatística e visualização de dados com a base de dados [Salary Data](# Análise Estatística e Visualização de Dados 
-Código desenvolvido para tratamento, limpeza, processamento, preparo, análise estatística e visualização de dados com a base de dados [Red Wine Quality](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009) disponível no Kaggle. 
+Código desenvolvido para tratamento, limpeza, processamento, preparo, análise estatística e visualização de dados com a base de dados [Salary](https://www.kaggle.com/datasets/mohithsairamreddy/salary-data/data) disponível no Kaggle.  
 
 O projeto visou cumprir os requisitos de **Estatística**, do bootcamp de Dados da **Ada Tech**, patrocinado pelo **Potência Tech**, do **iFood**. 
 
