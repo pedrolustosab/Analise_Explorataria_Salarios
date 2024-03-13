@@ -42,11 +42,20 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 2 inte
 
 ![Gráfico 7](top5job_gender.png)
 
-**6. Sem tendência com relação a quantidade de ocupação por cargo:**
++ Em geral costumam ser a maioria em cargos com maiores salários, enquanto as mulheres costumam ser maioria em cargos com menores salários:
+
+![Gráfico 12](salary_gender.png)
+
+**6. Com relação a quantidade de ocupação por cargo:**
 
 ![Gráfico 8](ct_male.png) 
 ![Gráfico 9](ct_female.png)
 ![Gráfico 10](ct_others.png)
+
++ De maneira geral não existe uma forte distinção entre os cargos mais comuns ocupados por homens e mulheres.
++ Entre os cargos populares para ambos estão Data Scientist e Software Engineer que estão no top 3 para ambos os gêneros.
++ Porém, é possível notar que mulheres tendem a ocupar mais os cargos relacionados a marketing e costumam também a ser os lideres dessas áreas.
++ Enquanto que os cargos de liderança ou maior senioridade nas areas de programação ( como Software Engineer Manager e Senior Project Engineer) costumam ser ocupados por homens.
 
 # Ferramentas utilizadas
 
@@ -57,4 +66,5 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 2 inte
 # Como rodar
 
 > Clique [GitHub](https://github.com/pedrolustosab/Analise_Explorataria_Salarios).
+
 
