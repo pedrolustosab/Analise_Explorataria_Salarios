@@ -22,6 +22,10 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 2 inte
 
 ![Gráfico 2](bar_education_salary_gender.png)
 
++ É possível notar também que um maior nível educacional costuma resultar um maior salário:
+
+![Gráfico11](salary_education.png)
+
 **3. O mesmo vale para anos de experiência:**
 
 ![Gráfico 3](bar_yoe_salary_gender.png)
