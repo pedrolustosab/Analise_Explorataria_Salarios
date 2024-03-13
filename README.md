@@ -22,22 +22,27 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 2 inte
 
 ![Gráfico 2](bar_education_salary_gender.png)
 
-**3. Associação com o Grau de Amargor:**
+**3. O mesmo vale para anos de experiência**
 
-![Gráfico 3](graficos/3.png)
+![Gráfico 3](bar_yoe_salary_gender.png)
 
-+ A presença de cloretos é associada ao grau de amargor do vinho, já que essa substância tem potencial para contribuir para essa sensação de amargor.
-+ Com base em nossas análises, pode-se inferir que a concentração de cloretos em níveis mais elevados tenha influência direta na percepção do amargor dos vinhos.
++ Com relação aos anos de experiência, os homens em geral ganham mais, mas a tendencia é igualar ou até diminuir com relação aos salarios das mulheres.
 
+**4. Idades mais avançadas há um aumento na quantidade de anos de experiência e do nível de educação:**
 
-**4. Correlação com Qualidade e Heatmap de Correlação:**
+![Gráfico 4](buble_age_yoy_education_salary.png)
+![Gráfico 5](line_age.png)
+![Gráfico 6](line_yoy.png)
 
-![Gráfico 4](graficos/4.png)
+**5. Homens ocupam cargos com melhores salários:**
 
-+ Sulphates: Existe uma correlação positiva, mas moderada, entre teor de sulfatos e qualidade. Isso sugere que vinhos com níveis mais altos de sulfatos sejam percebidos como de melhor qualidade.
-+ Volatile Acidity: Existe uma correlação negativa forte entre acidez volátil e qualidade do vinho. Isso sugere que vinhos com altos níveis de acidez volátil sejam percebidos como de menor qualidade.
-+ Variáveis 'alcohol', 'sulphates' e 'citric acid' demonstram correlações positivas moderadas com 'quality'. Isso sugere que vinhos com teor alcoólico mais alto, níveis mais elevados de sulfatos e ácido cítrico podem estar associados a uma maior qualidade nos vinhos.
-+ Variáveis 'volatile acidity' e 'total sulfur dioxide' demostram correlações negativas moderadas com 'quality'. Isso indica que altos níveis de acidez volátil e dióxido de enxofre total podem estar associados a uma menor qualidade nos vinhos.
+![Gráfico 7](top5job_gender.png)
+
+**6. Sem tendência com relação a quantidade de ocupação por cargo:**
+
+![Gráfico 8](ct_male.png) 
+![Gráfico 9](ct_female.png)
+![Gráfico 10](ct_others.png)
 
 # Ferramentas utilizadas
 
