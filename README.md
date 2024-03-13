@@ -42,7 +42,7 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 2 inte
 
 ![Gráfico 7](top5job_gender.png)
 
-+ Em geral costumam ser a maioria em cargos com maiores salários, enquanto as mulheres costumam ser maioria em cargos com menores salários:
++ Em geral, os homens costumam ser a maioria em cargos com maiores salários, enquanto as mulheres costumam ser maioria em cargos com menores salários:
 
 ![Gráfico 12](salary_gender.png)
 
@@ -56,6 +56,12 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 2 inte
 + Entre os cargos populares para ambos estão Data Scientist e Software Engineer que estão no top 3 para ambos os gêneros.
 + Porém, é possível notar que mulheres tendem a ocupar mais os cargos relacionados a marketing e costumam também a ser os lideres dessas áreas.
 + Enquanto que os cargos de liderança ou maior senioridade nas areas de programação ( como Software Engineer Manager e Senior Project Engineer) costumam ser ocupados por homens.
+
+# Conclusão
+
++ Existe uma correlação forte e positiva entre Idade, Anos de Experiência e Salário.
++ O mesmo pode ser dito para o nível educacional. Quanto maior o nível educacional maior tende a ser a idade, experiência e salário.
++ De maneira geral os homens tendem a ocupar cargos com melhores remunerações.
 
 # Ferramentas utilizadas
 
