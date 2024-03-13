@@ -18,15 +18,15 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 2 inte
 
 ![Gráfico 1](cor_numeric.png)
 
-**2. Homens ganham mais que as mulheres em qualque nível de educação:**
+**2. Homens ganham mais que as mulheres em qualquer nível de educação:**
 
 ![Gráfico 2](bar_education_salary_gender.png)
 
-**3. O mesmo vale para anos de experiência**
+**3. O mesmo vale para anos de experiência:**
 
 ![Gráfico 3](bar_yoe_salary_gender.png)
 
-+ Com relação aos anos de experiência, os homens em geral ganham mais, mas a tendencia é igualar ou até diminuir com relação aos salarios das mulheres.
++ Com relação aos anos de experiência, os homens em geral ganham mais, mas a tendência é igualar ou até diminuir com relação aos salarios das mulheres.
 
 **4. Idades mais avançadas há um aumento na quantidade de anos de experiência e do nível de educação:**
 
