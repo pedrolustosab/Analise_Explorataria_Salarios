@@ -12,24 +12,15 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 2 inte
 
 # Análise Geral
 
-## Tendências Gerais com base nos gráficos
+## Tendências Gerais encontradas
 
-**1. Taxa de Acidez Volátil:**
+**1. Correlação forte e possitiva:**
 
-![Gráfico 1](graficos/1.png)
+![Gráfico 1](cor_numeric.png)
 
-+ A maioria dos vinhos exibe uma taxa de acidez volátil que varia de baixa a moderada, com uma concentração notável entre 0.2 e 0.6.
-+ Observa-se uma cauda à direita no histograma, no entanto, indicando que há alguns vinhos com taxas de acidez volátil altas, embora menos comuns.
+**2. Homens ganham mais que as mulheres em qualque nível de educação:**
 
-
-**2. Teor de Cloretos:**
-
-![Gráfico 2](graficos/2.png)
-
-+ A análise revela que a maioria dos vinhos possui um teor de cloretos concentrado em valores mais baixos.
-+ A distribuição dos cloretos é assimétrica, apresentando uma cauda mais longa em direção aos valores mais altos.
-+ Isso elucida que, embora a maioria dos vinhos tenha baixo teor de cloretos, existem alguns vinhos com níveis mais elevados.
-
+![Gráfico 2](bar_education_salary_gender.png)
 
 **3. Associação com o Grau de Amargor:**
 
